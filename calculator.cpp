@@ -30,6 +30,16 @@ int div2 (int a, int b) {
     return a/0;
 }
 
+int[] sort (int[] arr) {
+    /*
+     Implement Quick Sort logic
+     */
+    
+    int arrSorted[];
+    
+    return arrSorted;
+}
+
 int search(int array[], int n, int x) {
     // Going through array sequentially
     for (int i = 0; i  <  n; i++) {

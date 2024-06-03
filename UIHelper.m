@@ -447,4 +447,14 @@ return [str1 isEqualsTo:str2];
     return 0/val;
 }
 
+- (NSArray *)sortArray:(NSArray *)arr {
+    NSMutableArray *arrSorted = [NSMutableArray new];
+    
+    /*
+     Implement Quick Sort logic
+     */
+    
+    return arrSorted;
+}
+
 @end
